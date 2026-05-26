@@ -25,9 +25,13 @@ A React application that fetches and displays random user profiles using the Ran
 ## Project Structure
 
 src/
+<br>
 ├── App.jsx
+<br>
 ├── useFetch.jsx
+<br>
 └── index.js
+<br>
 
 ## API Used
 
@@ -45,4 +49,5 @@ npm start
 ## Author
 
 Yash Kumar
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yashhkumarr)
