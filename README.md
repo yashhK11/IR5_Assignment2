@@ -28,3 +28,21 @@ src/
 ├── App.jsx
 ├── useFetch.jsx
 └── index.js
+
+## API Used
+
+[Random User API](https://randomuser.me/) - Generates random user data
+
+## Installation
+
+```bash
+git clone https://github.com/yashhK11/IR5_Assignment2.git
+cd IR5_Assignment2
+npm install
+npm start
+```
+
+## Author
+
+Yash Kumar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yashhkumarr)
