@@ -23,3 +23,8 @@ A React application that fetches and displays random user profiles using the Ran
 </p>
 
 ## Project Structure
+
+src/
+├── App.jsx
+├── useFetch.jsx
+└── index.js
